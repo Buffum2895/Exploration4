@@ -15,3 +15,15 @@ I started off by following the tutorial on React's website that involved creatin
 All in all I had a mixed experience with React. I think I would appreciate it more if I hadn't learned Angular yet, but now that I'm more familar with Angular it just seems to have a weirder syntax. However, I do like how React appears to give you much more freedom in how you develop. 
 
 ## Screenshots
+Initial state
+![first](https://github.com/Buffum2895/Exploration4/blob/dev/Screenshots/Screen%20Shot%202021-12-16%20at%201.22.34%20AM.png)
+Fill input
+![second](https://github.com/Buffum2895/Exploration4/blob/dev/Screenshots/Screen%20Shot%202021-12-16%20at%201.22.50%20AM.png)
+See created poll
+![third](https://github.com/Buffum2895/Exploration4/blob/dev/Screenshots/Screen%20Shot%202021-12-16%20at%201.22.53%20AM.png)
+See change with votes
+![fourth](https://github.com/Buffum2895/Exploration4/blob/dev/Screenshots/Screen%20Shot%202021-12-16%20at%201.23.01%20AM.png)
+See more polls
+![fifth](https://github.com/Buffum2895/Exploration4/blob/dev/Screenshots/Screen%20Shot%202021-12-16%20at%201.23.45%20AM.png)
+See polls get deleted
+![sixth](Screen Shot 2021-12-16 at 1.23.49 AM.png)
